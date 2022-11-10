@@ -65,8 +65,8 @@ Run the program and choose RTL viewer to get RTL realization.
 ```
 /*
 Program for  Implementation-of Shift-registers-using-verilog-
-Developed by: Paul Andrew D
-RegisterNumber: 212221230075
+Developed by: Manoj Kumar S
+RegisterNumber: 212221230056
 */
 ```
 ### PISO
